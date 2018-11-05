@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "body {\n  margin: 0;\n  /*background: #F2F2F2;\n    background:#808B96;*/\n  background: #606060;\n  font-family: 'Josefin Sans', sans-serif;\n  height: 100vh; }\n"
+module.exports = "body {\n  margin: 0;\n  /*background: #F2F2F2;\n    background:#808B96;*/\n  background: #474747;\n  font-family: 'Josefin Sans', sans-serif;\n  height: 100vh; }\n"
 
 /***/ }),
 
